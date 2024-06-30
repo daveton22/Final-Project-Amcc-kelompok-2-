@@ -12,6 +12,8 @@ Selamat datang di Belanjain, tempatnya belanja online yang memanjakan Anda denga
 
 Belanjain didirikan dengan visi untuk menjadi destinasi belanja online terdepan yang memberikan nilai tambah kepada pelanggan. Berawal dari keinginan untuk menyediakan platform yang mudah digunakan dan menyenangkan bagi pengguna untuk menjelajahi berbagai produk, Belanjain menawarkan pengalaman belanja yang tidak hanya efisien tetapi juga memperhatikan kebutuhan dan preferensi individu. Dengan dukungan dari vendor-vendor terpercaya dan tim yang berdedikasi, kami bertekad untuk terus meningkatkan layanan kami demi kepuasan pelanggan yang lebih baik.
 
+note: maaf kalau belum selesai semua karena semua anggota sibuk sama pengerjaan & persiapan presentasi final project matkul, kaget juga tiba tiba deadlinenya di saat saat sibuk dengan yang lain
+
 ## Fitur
 - Pencarian (Belum Done)
 - Login (Belum Done)
