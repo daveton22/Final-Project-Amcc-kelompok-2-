@@ -1,29 +1,27 @@
-# {Nama Project}
+# Belanja.In
 
 ## Screenshot
-![Screenshot](screenshot.png)
+![screenshot](https://github.com/daveton22/Final-Project-Amcc-kelompok-2-/assets/171418625/89fb33d6-cd5b-4e33-a3be-98e1474095c5)
+
 
 ## Tema
-INI TEMA
+E-Commerce
 
 ## Deskripsi dan Latar Belakang
-Version 2 of Mikiflix a Free anime streaming site where you can watch your favourite anime online powered by Sveltekit
+Selamat datang di Belanjain, tempatnya belanja online yang memanjakan Anda dengan berbagai pilihan produk terbaik dari berbagai kategori. Kami menyediakan pengalaman belanja yang aman, nyaman, dan terpercaya untuk memenuhi segala kebutuhan Anda, mulai dari fashion, elektronik, perlengkapan rumah tangga, hingga kebutuhan sehari-hari lainnya. Dapatkan produk-produk berkualitas dengan harga yang kompetitif dan layanan pelanggan yang ramah serta responsif di Belanjain.
 
-The Mikiflix project initially used React for its first version. However, its performance was suboptimal, and the use of Chakra UI as the UI library required significant time to learn and implement. These challenges made development and maintenance less efficient.
-
-Therefore, for version 2, Mikiflix was re-engineered using SvelteKit and Tailwind CSS. With SvelteKit, the application became lighter and more responsive, while Tailwind CSS allowed for faster and easier styling without the need to learn additional libraries. This approach was taken to enhance performance, simplify maintenance, and provide a better user experience.
+Belanjain didirikan dengan visi untuk menjadi destinasi belanja online terdepan yang memberikan nilai tambah kepada pelanggan. Berawal dari keinginan untuk menyediakan platform yang mudah digunakan dan menyenangkan bagi pengguna untuk menjelajahi berbagai produk, Belanjain menawarkan pengalaman belanja yang tidak hanya efisien tetapi juga memperhatikan kebutuhan dan preferensi individu. Dengan dukungan dari vendor-vendor terpercaya dan tim yang berdedikasi, kami bertekad untuk terus meningkatkan layanan kami demi kepuasan pelanggan yang lebih baik.
 
 ## Fitur
-- Fitur 1 (Done)
-- Fitur 2 (Done)
-- Stream Anime (Done)
-- Prediksi Masa Depan (Belum Done) 
+- Pencarian (Belum Done)
+- Login (Belum Done)
+- Cek keranjang (Belum Done)
+- Detail setiap produk (Belum Done)
+- Semua nya Belum Done
 
 ## Teknologi / Tools Yang Digunakan
   ### Frontend : 
-- Svelte
 - Tailwind
-- Skeleton UI
 
 ### Backend : 
 - Sveltekit
