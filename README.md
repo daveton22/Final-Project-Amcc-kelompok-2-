@@ -25,6 +25,7 @@ Belanjain didirikan dengan visi untuk menjadi destinasi belanja online terdepan 
 
 ### Backend : 
 - Sveltekit
+- Laravel
 - Lucia
 - Redis
 - Firebase
